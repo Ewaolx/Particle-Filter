@@ -3,7 +3,7 @@
 Implementation of classic particle filter algorithm. 
 Consists of prediction-updating updates in an approximate manner. The samples from the distribution are represented by a set of particles; each particle has a likelihood weight assigned to it that represents the probability of that particle being sampled from the probability density function. 
 
-The images below shows the sample distribution over the course of 10 timesteps, each consisiting of predict-update step
+The images below shows the sample distribution over the course of 10 timesteps, each consisiting of predict-update step.
 
 ![1](https://user-images.githubusercontent.com/34932185/50747848-2ddae480-1204-11e9-8e0b-cbf11e02947e.png)
 ![2](https://user-images.githubusercontent.com/34932185/50747851-303d3e80-1204-11e9-9489-c503b2b20d3f.png)
